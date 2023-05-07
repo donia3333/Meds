@@ -1,0 +1,28 @@
+.details{
+    text-align: left;
+}
+
+.medicine-image{
+    width: 300px;
+    height: 300px;
+    margin-top: 17px;
+    border-radius: 20px;
+}
+
+.medicine-name{
+    font-size:35px;
+    padding-bottom: 25px;
+}
+
+.medicine-desc{
+    font-size: 25px;
+    
+}
+
+.medicine-price{
+    font-size: 20px;
+   
+}
+.medicine-date{
+    font-size: 20px;
+}
